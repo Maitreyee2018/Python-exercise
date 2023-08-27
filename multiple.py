@@ -1,4 +1,4 @@
-This program takes two integers and returns True if the second one is a multiple of first one, returns False otherwise.
+#This program takes two integers and returns True if the second one is a multiple of first one, returns False otherwise.
 
 def is_multiple(m,n):
     if n%m==0:
